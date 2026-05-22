@@ -30,12 +30,13 @@ A Machine Learning web application that predicts whether a student will be place
 
 ## 🏠 Home Page
 
-![Home Page](images/homepage.png)
+![Home Page](Student%20Placement%20predictor%20.jpg)
 
 ---
 
 ## 📊 Prediction Result
 
+![Prediction Result](images/result.png)
 ![Prediction Result](images/result.png)
 
 ---
