@@ -43,7 +43,8 @@ A Machine Learning web application that predicts whether a student will be place
 
 ## 💻 Flask Application Running
 
-![Flask App](images/flask-terminal.png)
+![Flask App](SPP%203.jpg)
+![Flask App]()
 
 ---
 
