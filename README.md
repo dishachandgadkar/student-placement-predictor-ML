@@ -36,7 +36,7 @@ A Machine Learning web application that predicts whether a student will be place
 
 ## 📊 Prediction Result
 
-![Prediction Result](images/result.png)
+![Prediction Result](SPP%20project%201.jpg)
 ![Prediction Result](images/result.png)
 
 ---
