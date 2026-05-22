@@ -1,6 +1,6 @@
 # 🎓 Student Placement Predictor
 
-A Machine Learning web application that predicts whether a student will be placed or not based on CGPA, IQ, and Profile Score using Flask and Scikit-learn.
+I have done mini project of a Machine Learning web application that predicts whether a student will be placed or not based on CGPA, IQ, and Profile Score using Flask and Scikit-learn.
 
 ---
 
@@ -44,13 +44,13 @@ A Machine Learning web application that predicts whether a student will be place
 ## 💻 Flask Application Running
 
 ![Flask App](SPP%203.jpg)
-![Flask App]()
+![Flask App](SPP%204%20.jpg)
 
 ---
 
 ## 📂 Project Structure
 
-```bash
+
 Student-placement-predictor/
 │
 ├── application.py
