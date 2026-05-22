@@ -50,7 +50,6 @@ I have done mini project of a Machine Learning web application that predicts whe
 
 ## 📂 Project Structure
 
-
 Student-placement-predictor/
 │
 ├── application.py
@@ -61,3 +60,4 @@ Student-placement-predictor/
 ├── images/
 ├── requirements.txt
 └── README.md
+
